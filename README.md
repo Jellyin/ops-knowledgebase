@@ -5,12 +5,15 @@
 ​	The knowledgebase of ops
 
 ### Links
-1. [Gitlab](./gitlab)
+[Gitlab](./gitlab)
 
-    - [Gitlab_runner](./gitlab/gitlab_runner.md)
+- [Gitlab_runner](./gitlab/gitlab_runner.md)
 
-    [Docker](./docker)
+[Docker](./docker)
 
-    [Ansible](./ansible)
+- [The official documentation](https://docs.docker.com/)
 
+[Ansible](./ansible)
+
+- 
 
