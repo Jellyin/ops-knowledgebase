@@ -6,7 +6,7 @@
 
 ### Links
 1. [Gitlab](./gitlab)
-   1. [Gitlab_runner](./gitlab/gitlab_runner.md)
+    [Gitlab_runner](./gitlab/gitlab_runner.md)
 2. [Docker](./docker)
 
 3. [Ansible](./ansible)
